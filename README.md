@@ -1,2 +1,2 @@
 # Battle-of-the-Pyros
-Battle of the Pyro is a challenging 2D action game where players use limited fire powers to battle waves of enemies in a dangerous lava dungeon.
+Battle of the Pyro is a challenging 2D action game where players use limited fire powers to battle waves of enemies in a dangerous lava dungeon. The player must balance health, fireball usage, and evasion to survive increasingly difficult waves. With no checkpoints and a permadeath mechanic, the game is designed to be highly challenging, requiring strategic play and fast reflexes.
